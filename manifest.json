@@ -1,0 +1,16 @@
+{
+  "name": "Para Amanda",
+  "short_name": "Para Amanda",
+  "theme_color": "#921ace",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "assets/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

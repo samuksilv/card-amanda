@@ -1,0 +1,60 @@
+{
+  "configVersion": 1,
+  "timestamp": 1560517636298,
+  "index": "https://samuksilv.github.io/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://samuksilv.github.io/es2015-polyfills.bda95d5896422d031328.js",
+        "https://samuksilv.github.io/favicon.ico",
+        "https://samuksilv.github.io/index.html",
+        "https://samuksilv.github.io/main.d1f87f4b953db2c3da9d.js",
+        "https://samuksilv.github.io/polyfills.8bbb231b43165d65d357.js",
+        "https://samuksilv.github.io/runtime.26209474bfa8dc87a77c.js",
+        "https://samuksilv.github.io/styles.280e991c5992f8630bc9.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://samuksilv.github.io/assets/icons/icon-512x512.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://samuksilv.github.io/assets/icons/icon-512x512.png": "d301f4866ebb6ed37825aa3c5be9ec924d02bef4",
+    "https://samuksilv.github.io/es2015-polyfills.bda95d5896422d031328.js": "1612fe8f7e8e0c856f0885ff179e93363c67834f",
+    "https://samuksilv.github.io/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://samuksilv.github.io/index.html": "7917e86a3c4e3f06e2eb69735d09176d75f0b12f",
+    "https://samuksilv.github.io/main.d1f87f4b953db2c3da9d.js": "923ae56492cfdcb37f5ad32295674bd85b23b91e",
+    "https://samuksilv.github.io/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
+    "https://samuksilv.github.io/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://samuksilv.github.io/styles.280e991c5992f8630bc9.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
