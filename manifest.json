@@ -5,7 +5,7 @@
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "/card-amanda/",
   "icons": [
     {
       "src": "assets/icons/icon-512x512.png",
